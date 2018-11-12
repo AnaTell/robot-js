@@ -1,0 +1,2 @@
+gem 'webpacker'
+gem 'rake'
